@@ -1,2 +1,3 @@
-# Discord.JS-V13-Bot-Tutorial
-Discord.JS V13 Bot tutorial.
+# Description 
+
+In this repo are the basic files and code to create you own discord bot.
