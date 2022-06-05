@@ -37,3 +37,5 @@ Once you instaled discord.js use node . or node index.js
 And Wuolah! You have you own bot.
 # Step 8
 Invite your bot
+<img src = https://raw.githubusercontent.com/Carpodi/Discord.JS-V13-Bot-Tutorial/main/tutorial.png>
+
