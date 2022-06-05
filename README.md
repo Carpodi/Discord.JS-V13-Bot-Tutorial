@@ -14,7 +14,8 @@ Create a new [Application](https://discord.com/developers/applications)
 
 # Step 3 
 Crate a bot
-// The bot name must be the name that you want in your bot.
+
+Note: The bot name must be the name that you want in your bot.
 <img src = https://raw.githubusercontent.com/Carpodi/Discord.JS-V13-Bot-Tutorial/main/tutorial.png>
 
 
