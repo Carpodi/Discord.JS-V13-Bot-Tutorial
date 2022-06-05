@@ -27,3 +27,13 @@ Go to config.json file and replace the following values with your info, for exam
 
 Note: The prefix must be something like !, #, $, %, but you can also use a! v#, or something like that.
 
+# Step 6 
+Open the folder in that you have the bot files and put cmd
+Once you put cmd press enter. 
+You will enter to a cmd window, in that window you need to put 
+npm install discord.js 
+# Step 7 
+Once you instaled discord.js use node . or node index.js
+And Wuolah! You have you own bot.
+# Step 8
+Invite your bot
