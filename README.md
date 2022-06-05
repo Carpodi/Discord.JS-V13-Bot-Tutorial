@@ -38,4 +38,6 @@ And Wuolah! You have you own bot.
 # Step 8
 Invite your bot
 <img src = https://raw.githubusercontent.com/Carpodi/Discord.JS-V13-Bot-Tutorial/main/invite.png>
-
+# Dependencies
+![NodeJS logo](https://raw.githubusercontent.com/Carpodi/DiscordRPC/main/nodejs.png)
+[NodeJS](https://nodejs.org/en/), © OpenJS Foundation. All Rights Reserved. Portions of this site originally © Joyent.
