@@ -44,4 +44,4 @@ Invite your bot
 
 # Notice
 
-The discord.js version 13+ is no longer supported. So this repo will not work on the latest versions of discord.js. If you want a discord bot in the latest version use [this] (https://github.com/Carpodi/Discord.js-V14-Bot-template) repo.
+The discord.js version 13+ is no longer supported. So this repo will not work on the latest versions of discord.js. If you want a discord bot in the latest version use [this](https://github.com/Carpodi/Discord.js-V14-Bot-template) repo.
