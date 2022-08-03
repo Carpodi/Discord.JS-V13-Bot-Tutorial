@@ -41,3 +41,7 @@ Invite your bot
 # Dependencies
 ![NodeJS logo](https://raw.githubusercontent.com/Carpodi/DiscordRPC/main/nodejs.png)
 [NodeJS](https://nodejs.org/en/), © OpenJS Foundation. All Rights Reserved. Portions of this site originally © Joyent.
+
+# Notice
+
+The discord.js version 13+ is no longer supported. So this repo will not work on the latest versions of discord.js. If you want a discord bot in the latest version use [this] (https://github.com/Carpodi/Discord.js-V14-Bot-template) repo.
